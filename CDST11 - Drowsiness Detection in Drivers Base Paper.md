@@ -1,35 +1,3 @@
-﻿"Vigilant Guardians: A Unified Approach to Real-time Drowsiness Detection in Drivers using Python, AI, ML, and Facial Recognition" 
-
-***Mr. S. V. Durga Prasad, M. Tech,** Asst. prof,       Department of* 
-
-*Computer Science & Engineering with Data Science,* 
-
-*Chalapathi Institute of Engineering and Technology* 
-
-*(Autonomous), Lam, Guntur, A.P, India [Prasadsvd999@gmail .com* ](mailto:Prasadsvd999@gmail.com)*
-
-***Guduru Bhargava Veerbhadra**         Department of       Computer Science & Engineering with     Data Science,        Chalapathi Institute of Engineering and      Technology          (Autonomous)* 
-
-*Lam, Guntur, A.P, India* 
-
-[*guduribhargava@gm*](mailto:guduribhargava@gmail.com)
-
-[*ail.com* ](mailto:guduribhargava@gmail.com)
-
-***Puli Pavani        Kalyani**           Department of      Computer Science & Engineering with Data Science,* 
-
-*Chalapathi Institute of Engineering and Technology        (Autonomous)* 
-
-*Lam, Guntur, A.P, India             [kalyanipavani518@g mail.com* ](mailto:kalyanipavani518@gmail.com)*
-
-***Poluri Vamsi  Krishna**         Department of    Computer Science & Engineering with Data Science,      Chalapathi Institute of Engineering and Technology        (Autonomous)      Lam, Guntur, A.P, India             [vamsikrishna6238 @gmail.com* ](mailto:vamsikrishna6238@gmail.com)*
-
-***Ravulapalli Gopi  Chand*** 
-
-*Department of      Computer Science & Engineering with Data Science,       Chalapathi Institute of Engineering and Technology        (Autonomous)* 
-
-*Lam, Guntur, A.P, India             [chanduravulapalli98 @gmail.com* ](mailto:chanduravulapalli98@gmail.com)*
-
 THE PROBLEM STATEMENT ***ABSTRACT***
 
 **Driver’s drowsiness is one of the reasons for**  Drespeivercially ’s droduring wsiness longis a- nmajoright driveroad s, safceontributty conceing rn **many road accidents worldwide. In this paper,**  significantly  to  accidents.  Current  solutions  fall 
@@ -249,23 +217,3 @@ confines  of  our  project.  This  forward-looking approach positions us as pion
 CONCLUSION
 
 In summation, the endeavor to detect and address driver drowsiness through innovative technologies represents a significant advancement in the realm of road safety. The fusion of Artificial Intelligence (AI) and Machine Learning (ML) has birthed a sophisticated  apparatus  adept  at  real-time monitoring and nuanced analysis of driver facial cues, facilitating timely intervention to avert the perils  of  fatigue-induced  accidents.  Rigorous testing and scrutiny have underscored the prowess of our chosen algorithms be it the robust Random Forest, the discerning Supported Vector Machines, the insightful K-Nearest Neighbors, or the intricate CNN Model - in detecting even the subtlest hints of drowsiness. This accomplishment heralds the indispensable  role  of  advanced  technologies  in preserving lives and fostering a culture of safer driving practices. Amidst the dynamic landscape of  road  safety,  our  project  serves  as  a  beacon, illuminating  the  transformative  potential  of technological  innovation  in  nurturing  a  road environment that is secure and sustainable for all travelers. 
-
-ACKNOWLEDGMENT
-
-Big thanks to everyone who contributed to our Detection of Drowsiness project. Special shoutout to the Team, Co-Founder & CEO of CS CODENZ, and the Project Team for their invaluable support. Their expertise shaped these innovative endeavors. Gratitude  also  extends  to  our  colleagues  and mentors  for  unwavering  support  and  insights. Together, we're making roads safer. 
-
-REFERENCE
-
-1. Mohsen Babaeian, Nitish Bhardwaj, Bianca Esquivel, and Mohammad Mozumdar, Real Tiem Driver Drowsiness 
-
-   Detection Using a Logistic – Regression- Based Machine Learning Algorithm, 1250 Bellflower Blvd, Long Beach, California State University, CA 90840, 2016. 
-
-2. Walid  Hussein,  M.  Samir  Abou  El-Seoud,  Improved Driver Drowsiness Detection Model Using E=Relevant Eye Image’s  Features,  Faculty  of  Informatics  and  Computer Science, British University in Egypt (BUE), Cairo, 2017. 
-2. Jong Seong Gwak, Motoki Shino, and Akinari Hirao, Early  Detection  of  Driver  Drowsiness  Utilizing  Machine Learning  based  on  Physiological  Signals,  Behavioral Measures, and Driving Performance, Hawaii, USA, Nov 7, 2018. 
-2. Sukrit Mehta, Parimal Mishra, Arpita Jadhav Bhatt, Parul Agarwal,  AD3S:  Advanced  Driver  Drowsiness  Detection System  using  Machine  Learning,  Jaypee  Institute  of Information Technology, Noida, India, 2019.  
-2. Seyed  Kian  Mousavi  Kia  Erfan  Gholizadehazari, Morteza  Mousazadeh,  and  Siddika  Berna  Ors  Yalcin, Instruction Set Extension of a RiscV Based SoC for Driver Drowsiness Detection. 
-2. E.  Kuronen,  "EPIC  sensors  in  electrocardiogram measurement," Information Technology, Oulu University of Applied Sciences, 2013.  
-2. G. Borghini, L. Astolfi, G. Vecchiato, D. Mattia, and F. Babiloni, "Measuring neurophysiological signals in aircraft pilots and car drivers for the assessment of mental workload, fatigue, and drowsiness," Neurosci Biobehav Rev, vol. 44, pp. 58-75, Jul 2014. 
-2. M.  Sangeetha,  "Embedded  ECG  Based  Real-Time Monitoring and Control of Driver Drowsiness Condition," International Journal of Science, Technology, and Society, vol. 3, p. 176, 2015. 
-2. S.  Karpagachelvi,  M.  Arthanari,  and  M.  Sivakumar, "ECG Feature Extraction Techniques - A Survey Approach," International Journal of Computer Science and Information Security, vol. 8, April 2010. 
-2. T.L. Chin, J.C. Che, S.L. Bor, H.H. Shao, F.C. Chih, and  I.J.  Wang,  “A  real–time  wireless  brain-computer interface  system  for  drowsiness  detection,”  IEEE Transaction on Biomedical Circuits and Systems, Vol. 4, pp. 214-222, 2010. 
