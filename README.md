@@ -1,20 +1,3 @@
-﻿<h1>"Vigilant Guardians: A Unified Approach to Real-time Drowsiness Detection in Drivers using Python, AI, ML, and Facial Recognition" </h1>
-
-<h4>Head of the project: <b>Bhargava Veera Bhadra</b></h4>
-Department of Computer Science & Engineering with Data Science, *Chalapathi Institute of Engineering and Technology (Autonomous)* Lam, Guntur, A.P, India.
-
-[*guduribhargava@gmail.com* ](mailto:guduribhargava@gmail.com)
-
-<h2> Team Members </h2> 
-<list>
-  <ul>
-    <li> <b>Puli Pavani Kalyani</b> <br> Department of Computer Science & Engineering with Data Science, <br> Chalapathi Institute of Engineering and Technology(Autonomous),Lam, Guntur, A.P, India  </li>
-    <li> <b>Poluri Vamsi  Krishna</b> <br> Department of Computer Science & Engineering with Data Science, <br> Chalapathi Institute of Engineering and Technology(Autonomous),Lam, Guntur, A.P, India  </li>
-    <li> <b>Ravulapalli Gopi  Chand</b> <br> Department of Computer Science & Engineering with Data Science, <br> Chalapathi Institute of Engineering and Technology(Autonomous),Lam, Guntur, A.P, India  </li>
-</ol>
-</list>
-
-<h2> THE PROBLEM STATEMENT ABSTRACT <h6> Guduru Bhargava Veera Bhadra/Y20CDS022 ©2024 IEEE  </h6></h2>
 
 Driver’s drowsiness is one of the reasons for many road accidents worldwide. In this paper, we have proposed an approach for detecting and predicting the driver’s drowsiness based on facial features. Our methodology centers on the utilization of convolutional neural networks (CNNs), renowned for their effectiveness in image classification tasks. We employ transfer learning techniques to leverage pre-trained models on large image datasets, facilitating model optimization for drowsiness detection. Through meticulous experimentation and finetuning, we optimize the models to achieve superior accuracy in drowsiness detection. A comparison between the methods based on model size, accuracy, and training time has also been made. The extracted model can achieve an accuracy of more than 96% and can be saved as a file and used to classify images as driver’s Drowsy or Non-Drowsy with the predicted label and probabilities for each class.
 
@@ -98,11 +81,4 @@ Economically, our evaluation weighs the costs against the benefits with precisio
 
 In summation, the endeavor to detect and address driver drowsiness through innovative technologies represents a significant advancement in the realm of road safety. The fusion of Artificial Intelligence (AI) and Machine Learning (ML) has birthed a sophisticated  apparatus  adept  at  real-time monitoring and nuanced analysis of driver facial cues, facilitating timely intervention to avert the perils  of  fatigue-induced  accidents.  Rigorous testing and scrutiny have underscored the prowess of our chosen algorithms be it the robust Random Forest, the discerning Supported Vector Machines, the insightful K-Nearest Neighbors, or the intricate CNN Model - in detecting even the subtlest hints of drowsiness. This accomplishment heralds the indispensable  role  of  advanced  technologies  in preserving lives and fostering a culture of safer driving practices. Amidst the dynamic landscape of  road  safety,  our  project  serves  as  a  beacon, illuminating  the  transformative  potential  of technological  innovation  in  nurturing  a  road environment that is secure and sustainable for all travelers. 
 
-<h3> ACKNOWLEDGMENT </h3>
 
-Big thanks to everyone who contributed to our Detection of Drowsiness project. Special shoutout to the Team, Co-Founder & CEO of CS CODENZ, and the Project Team for their invaluable support. Their expertise shaped these innovative endeavors. Gratitude  also  extends  to  our  colleagues  and mentors  for  unwavering  support  and  insights. Together, we're making roads safer. 
-
-<div align="left">
-  <br> Signature <br>
-  <h3> Bhargava Veera Bhadra</h3>
-</div>
